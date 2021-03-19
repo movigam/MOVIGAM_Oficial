@@ -92,7 +92,7 @@ a.btn-flat:hover:before {
     font-family: 'Amatic SC', cursive;
 }
 
-video {
+.top img {
     width: 100%;
     height: auto;
     object-fit: contain;
